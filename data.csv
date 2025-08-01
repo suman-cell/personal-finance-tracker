@@ -1,0 +1,53 @@
+date,amount,category,description
+01-01-2024,500.0,Income,freelance work
+03-01-2024,150.0,Expense,grocery shopping
+05-01-2023,1200.0,Income,salary
+06-01-2024,100.0,Expense,Uber ride
+08-01-2024,75.5,Expense,coffee and snacks
+10-01-2023,200.0,Income,stock dividend
+11-01-2024,340.0,Expense,utility bill
+13-01-2023,250.0,Expense,online shopping
+15-01-2024,600.0,Income,project bonus
+17-01-2024,90.0,Expense,movie night
+18-01-2024,300.0,Expense,restaurant
+20-01-2024,100.0,Income,cashback
+21-01-2024,200.0,Expense,metro card recharge
+23-01-2024,450.0,Income,side hustle
+25-01-2024,130.0,Expense,pharmacy
+26-01-2024,800.0,Income,freelance design
+28-01-2024,100.0,Expense,petrol
+29-01-2024,150.0,Expense,airtime recharge
+31-01-2024,1100.0,Income,salary
+02-02-2024,80.0,Expense,laundry
+03-02-2024,180.0,Expense,grocery
+05-02-2024,600.0,Income,crypto gain
+07-02-2024,90.0,Expense,cafe bill
+08-02-2024,210.0,Expense,travel booking
+10-02-2024,1200.0,Income,client payment
+12-02-2024,250.0,Expense,shopping
+14-02-2024,500.0,Income,interest
+15-02-2024,75.0,Expense,auto fare
+17-02-2024,190.0,Expense,bill payment
+19-02-2024,950.0,Income,consulting
+20-02-2023,130.0,Expense,books
+22-02-2023,300.0,Expense,furniture
+24-02-2023,450.0,Income,referral bonus
+26-02-2023,200.0,Expense,dinner out
+28-02-2024,650.0,Income,salary
+01-03-2024,150.0,Expense,train ticket
+03-03-2024,90.0,Expense,parking fee
+05-03-2024,780.0,Income,project payment
+06-03-2024,100.0,Expense,haircut
+08-03-2024,85.0,Expense,tea and snacks
+10-03-2024,500.0,Income,online sale
+11-03-2024,200.0,Expense,gift shopping
+13-03-2024,100.0,Expense,cleaning service
+15-03-2025,1100.0,Income,salary
+17-03-2025,60.0,Expense,cab ride
+19-03-2025,400.0,Expense,electronics
+20-03-2025,100.0,Income,coupon reward
+22-03-2025,250.0,Expense,home repair
+24-03-2025,90.0,Expense,temple donation
+26-03-2025,130.0,Expense,insurance premium
+28-03-2025,300.0,Income,cash gift
+
